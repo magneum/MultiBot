@@ -3,6 +3,7 @@
 # ❣️『 MultiBot 』❣️
 <p align="centre"><img  width="100%" height="100%" img src="https://github.com/Krakinz/MultiBot/blob/KrakinzLab/MultiBot.JPG" /></p>
 
+# Will be Adding many more features but i am working on other bots now
 
 # 〽️ MΣΣƬ US ӨЯ CΉΣCK ӨƬΉΣЯ BӨƬS
 
